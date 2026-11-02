@@ -1,6 +1,2 @@
-print("Hola mundo")
-
-print("hola comapdre" )
-
-print("que chow")
-input()
+nombre = input("¿Cuál es tu nombre? ")
+print("Hola " + nombre + ", ¡bienvenido al mundo de Python!")
